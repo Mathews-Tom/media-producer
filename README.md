@@ -34,8 +34,9 @@ media-producer/
 ├── SOUL.md
 ├── RULES.md
 ├── README.md
-├── icon.png
-├── banner.png
+├── assets/
+│   ├── icon.png
+│   └── banner.png
 └── knowledge/
     ├── format-selection-matrix.md
     ├── visual-design-principles.md
